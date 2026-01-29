@@ -1,3 +1,7 @@
+# This script uses the Whisper model to transcribe an audio file and outputs the transcription in JSON format.
+# This is for sample purposes only and may require modifications for production use.
+# This creates only one chunk for testing purpose.
+
 import whisper
 import json
 
