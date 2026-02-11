@@ -33,6 +33,17 @@ def create_embedding(text_list, batch_size=16):
     # embedding = r.json()["embeddings"] 
     # return embedding
 
+def inference(prompt):
+    r = requests.post("http://localhost:11434/api/generate", json={
+        "model": "llama3.2",
+        "prompt": prompt,
+        "stream": False
+    })
+
+    response = r.json()
+    print(response)
+    return response
+
 df = joblib.load("embeddings.joblib")
 
 incoming_query = input("Ask a Question: ")
@@ -52,14 +63,20 @@ new_df = df.loc[max_indx]
 
 prompt = f'''Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that :   
 
-{new_df[["title", "number", "start", "end", "text"]].to_json()}
+{new_df[["title", "number", "start", "end", "text"]].to_json(orient="records")}
 ---------------------------------------
 {incoming_query}
-User asked this question related to the video chunks, you have to answer where and how much content is taught in which (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrealted question, tell him that you can only answer questions related to the course.
+User asked this question related to the video chunks, you have to answer in a human way (don't mention the above format, it's just for you) where and how much content is taught in which (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrealted question, tell him that you can only answer questions related to the course.
 '''
 
 with open("prompt.txt", "w") as f:
     f.write(prompt)
+
+response = inference(prompt)["response"]
+print(response)
+
+with open("response.txt", "w") as f:
+    f.write(response)
 
 # for index, item in new_df.iterrows():
 #     print(index, item['title'], item['number'], item['text'], item['start'], item['end'])
