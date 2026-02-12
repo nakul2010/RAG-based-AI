@@ -3,6 +3,11 @@ import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 import joblib
 import requests
+from openai import OpenAI
+# from config import api_key
+
+
+# Client = OpenAI(api_key=api_key) # Use when you'll have your own api key. 
 
 def create_embedding(text_list, batch_size=16):
     all_embeddings = []
@@ -34,6 +39,7 @@ def create_embedding(text_list, batch_size=16):
     # return embedding
 
 def inference(prompt):
+    print("Thinking...")
     r = requests.post("http://localhost:11434/api/generate", json={
         "model": "llama3.2",
         "prompt": prompt,
@@ -43,6 +49,17 @@ def inference(prompt):
     response = r.json()
     print(response)
     return response
+
+# def inference_openai(prompt):
+#     print("Thinking...")
+#     response = clinet.responses.create(
+#         model = "gpt-5",
+#         input=prompt
+#     )
+
+#     return response.output_text   # use when you'll have your own api key and want to use OpenAI API instead of local LLM server. Make sure to set up your OPENAI_API_KEY in environment variables and install openai library. Also, change the model name in the inference function to an OpenAI model like "gpt-3.5-turbo" or "gpt-4".
+
+
 
 df = joblib.load("embeddings.joblib")
 
@@ -75,7 +92,10 @@ with open("prompt.txt", "w") as f:
 response = inference(prompt)["response"]
 print(response)
 
-with open("response.txt", "w") as f:
+# response = inference_openai(prompt)
+# print(response)  # Use this if you want to use OpenAI API instead of local LLM server. Make sure to set up your OPENAI_API_KEY in environment variables and install openai library. Also, change the model name in the inference function to an OpenAI model like "gpt-3.5-turbo" or "gpt-4".
+
+with open("response.txt", "w", encoding="utf-8") as f:
     f.write(response)
 
 # for index, item in new_df.iterrows():

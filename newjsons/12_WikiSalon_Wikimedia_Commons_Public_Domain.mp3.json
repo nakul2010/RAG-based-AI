@@ -1,0 +1,215 @@
+{
+    "chunks": [
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 0.96,
+            "end": 35.28,
+            "text": " Hello and welcome to the Wiki Salon. In this video we will demonstrate how to add public domain  images to Wikimedia Commons and this video has been updated as of September 2025.  Wikimedia Commons is a place where people store freely licensed image, audio, and video files.  These files are used in Wikipedia articles and other Wikimedia project pages, but anyone in the  world can add, edit, and use its public domain resources. Images that can be uploaded to"
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 35.28,
+            "end": 72.24,
+            "text": " Wikimedia Commons include those that are labeled as Creative Commons 0 or CC0, those that are licensed  with other Creative Commons licenses which are accepted by Wikimedia Commons, please see the link  provided, materials that are in the public domain and in the United States that means their copyright  has expired, or materials that third parties have released as being in the public domain.  Images that are not allowed to be uploaded to Wikimedia Commons include those that are labeled as"
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 72.88,
+            "end": 117.12,
+            "text": " non-commercial or CCNC, non-derivative or CCND, anything labeled copyright unknown or no known copyright,  anything labeled as copyright undetermined, anything that is marked as in copyright, or any work that  contains media from other copyright holders that is not appropriately CC licensed or not in the public domain.  How can you locate Creative Commons licensed images on the internet?  Here are some ideas. If you are using the Photosite Flickr, you can limit your search to commercial use and modifications allowed."
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 117.12,
+            "end": 173.84,
+            "text": " Then look at the individual photograph and check the usage rights for the license. Ideally, you will see some rights reserve and perhaps a CC by attribution license.  If you are using a Google search for images, you can limit your search by clicking on the Tools menu, then Usage Rights and Creative Commons licenses.  Again, check each individual image for its license, and no NC or ND licenses are permitted in Commons.  You may see that some images are marked with the CC0 public domain mark, and those are acceptable for Commons.  If you are looking at a dependent digital repository, such as the Smithsonian Institution,"
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 173.84,
+            "end": 205.92000000000002,
+            "text": " there may be some options to filter your search to only return results with Creative Commons licenses.  As in this example from the Smithsonian, where you can filter to only return results with CC0 media.  Then you can look for CC0 on the image record itself.  There is a Creative Commons search portal at search.creativecommons.org.  You can change the filter options to limit your search to those licenses which are supported by"
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 205.92000000000002,
+            "end": 247.28,
+            "text": " Wikimedia Commons, such as the public domain mark, CC0, CC BY, and CC BY SA.  How can you identify images that are in the public domain in the United States?  First, consult the Cornell Copyright Center's chart for guidance on all materials in the United States public domain.  As of January 1st, 2025, anything that has been published in the United States in or before 1930 is in the public domain.  The chart will also explain the dates for items that are published in the United States with no copyright notice or with an expired copyright."
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 247.84,
+            "end": 291.44,
+            "text": " Any unpublished works by authors who died in or before 1955 are in the public domain.  Also, unpublished anonymous works or unknown authors in or before 1905.  As a reminder, any works created by an officer or employee of the United States federal government as part of their official duties is in the public domain.  This would include all images from NASA, but it does not include any images from state governments or contractors.  For more specific information about United States serials and their copyright status, please see the link below from the online books page."
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 292.24,
+            "end": 330.32,
+            "text": " Here is an example of an image in the public domain from the digital collections of the New York Public Library.  Because this image was originally published in a book in 1898, that means it is in the public domain in the United States because its copyright has expired.  You can also use other repositories to find public domain released images.  Here is an example from the European digital library, Europeana.  In this repository, you can limit your search to write statements with public domain mark or CC0."
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 330.32,
+            "end": 369.59999999999997,
+            "text": " Some collections also filter with the first question of, can I use this, yes or no?  As a reminder, do not upload any materials with write statements of no known copyright, as the copyright for those is undetermined, not uncopyrighted.  Once you have selected your images from the internet, you may prepare them for upload to Wikimedia Commons.  First, gather the downloaded files into an accessible location, preferably on a local hard drive or attached thumb drive.  Each media's file name must be unique and should be descriptive."
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 370.15999999999997,
+            "end": 411.44,
+            "text": " You can edit the original file name from the source digital repository to make it more descriptive, as in the example below.  The file types accepted by Wikimedia Commons are shown below, and the most common ones are TIFF, JPEG, PING, and GIF.  The maximum file size for a single file in Commons is 5 GB, but please note that larger files will take longer to upload.  For images from the original source repository, download either the full-size TIFF file or the largest JPEG file available.  When you upload them, Commons will automatically create resized versions for viewers to download."
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 412.32,
+            "end": 442.4,
+            "text": " Next, prepare the file information or metadata for the upload.  First, identify and note the exact write statement or license for your downloaded file,  and confirm that it is indeed in the public domain in the United States or appropriately CC licensed.  Next, gather other relevant metadata for the media in advance, such as the title of the image,  the name of its creator, noting the birth and death dates of that person if known,"
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 443.04,
+            "end": 473.76,
+            "text": " its date of creation, a description of the image, and its location.  Next, search Commons for potential categories to assign to your file based upon the subject of the image.  Finally, please note that an account on Wikipedia or another Wikimedia project is required for login  to be able to upload new media files to Commons.  Here is an example of how to upload a Creative Commons licensed image."
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 473.76,
+            "end": 509.52,
+            "text": " In this example, we have an image of a tomato frog from the Smithsonian Institution, which is clearly labeled as CC0.  We go to commons.wikimedia.org to the link specified, or to the main page,  and click the Upload button to launch the Upload Wizard.  Next, click on Select Media Files to Share, and enter the location of your file.  Then, click Upload. Your file will be uploaded, and if it is successful, you will see the word Uploaded and a green check mark."
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 510.08,
+            "end": 530.96,
+            "text": " If there are any problems, you will see a warning.  At this point, you can hit Continue.  Next, we have to specify the Creative Commons license.  First, select This work was created by someone else, and it is free to share.  Next, click the reason why the work is free to share."
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 530.96,
+            "end": 564.72,
+            "text": " In this case, the creator has released or published this work under a free license.  Next, select the correct license, which in this case is Creative Commons CC0 Waiver.  Below that, copy and paste the URL of the source webpage, or the sourcing information for the image,  directly into the box for number 2, Where did you find this work?  Next, in box number 3, add the name of the author or authors, if known,"
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 564.72,
+            "end": 580.0,
+            "text": " along with any of their birth or death dates, if known.  Check the box if the author is unknown, and click Next.  Next, describe your image.  Next, describe your image.  Provide a descriptive title and caption for this image."
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 580.64,
+            "end": 607.44,
+            "text": " So, instead of just tomato frog, the title would be something like tomato frog on a plastic dish.  Provide a caption which increases the accessibility of the image.  Add a more detailed description.  Whenever possible, provide as specific a date as is possible for the image.  In this case, the date comes directly from the Smithsonian Institution's original website."
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 608.24,
+            "end": 639.12,
+            "text": " For the main subject visible in the work, match the content of the image to the entry in wiki data  to make images easier to find automatically and link via linked data.  In this case, it's the genus Discofus for tomato frog.  And finally, add categories in Wikimedia Commons for the image as is applicable.  In this case, we've entered Discofus guinetti for the tomato frog."
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 639.12,
+            "end": 665.68,
+            "text": " When you're done, click Publish Files.  Once your files are published in Commons, you can use them in various places.  To use the file in a wiki, copy this whole text and paste it into a page.  This would be the entire text with the file name between double brackets.  If you're using it in HTML, copy the entire URL beginning with https"
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 667.04,
+            "end": 701.44,
+            "text": " commons.wikimedia.org followed by wiki and the name of the file.  If you have selected images from Flickr, there is a special Flickr to Commons upload pathway that you can use.  When you click the main upload button to launch the upload wizard, pick the second choice,  Share Images from Flickr. The Flickr image that you've selected must have a CC0 or CC BY SA license.  You cannot use anything that says All rights reserved, no derivatives, or no commercial use."
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 701.44,
+            "end": 737.36,
+            "text": " Simply copy and paste the entire Flickr URL into the box. Then click Get from Flickr.  The service will automatically check if there are duplicates in Commons and will either upload the image  or display a warning. If you receive a warning, click Remove and restart.  If your upload is successful by showing the green check mark, you can click on Continue.  At this point, you can edit the description and accompanying metadata. Edit the metadata for the"
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 737.36,
+            "end": 777.92,
+            "text": " caption and description as needed. The title, date, and additional EXIF metadata will automatically carry  over from Flickr. Add categories or other descriptive information as appropriate and click Publish File.  Here is an example of an image that is in the public domain in the United States.  This image of a bullfrog from the New York Public Library is in the public domain in the United States  because it was originally published in 1898 and its copyright has expired. The upload procedure for this image in the upload wizard is exactly the same except for the release rights."
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 778.56,
+            "end": 830.0799999999999,
+            "text": " Once you've uploaded your image, select This work was created by someone else and is free to share. Then click Next.  Select This work is not protected by copyright law and then choose the reason that the item is out of copyright.  In this case, it's out of copyright because it was first published in the United States before 1930. If there were another reason, you would check that reason.  As a reminder, original works of the U.S. federal government and NASA are also in the public domain. And there are other specific public domain tags for other reasons why the image is out of copyright.  Again, add the URL or sourcing information from the original website and copy and paste that into box number two."
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 830.08,
+            "end": 860.88,
+            "text": " For box number three, add the authors if they're known along with any birth or death dates if known and check the box if the author is unknown.  The remainder of the upload steps are the same as for other images, metadata assignment, adding categories, etc.  So you could see the steps above in this presentation.  And it's always recommended to add the citation information to the description to make it absolutely clear that the item is in the list.  And it's always recommended to make it absolutely clear that the item is in the public domain."
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 862.48,
+            "end": 901.76,
+            "text": " Here is an example of an upload of an image where the United States copyright was not renewed.  For this example, we have the Hollywood magazine Silver Screen from December of 1930.  We have already confirmed that the copyright for this particular issue has not been renewed and it is in the public domain.  Therefore, we can take screen captures or image captures and use them anywhere that we like and upload them to Wikimedia Commons.  If you are interested in learning more about how to determine the copyright status of a United States serial or magazine,"
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 901.76,
+            "end": 935.28,
+            "text": " please see the link below from the online books page.  The upload procedure for this image is exactly the same as the other images that we've shown today, except for the release rights.  Select this work was created by someone else and is free to share.  Next, click this work is not protected by copyright law.  Into the specific public domain tag box, copy and paste the following license in between curly brackets."
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 935.28,
+            "end": 961.64,
+            "text": " and that is pd-us-not-renewed as shown in the slide.  Then you can continue with the rest of your upload steps.  For more information, if you'd like more information about how to contribute to Wikimedia Commons,  here is a link to a good basic tutorial.  Wikimedia Commons also has a help center that is linked below."
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 961.64,
+            "end": 985.48,
+            "text": " For more information about copyright in the United States,  Cornell University's Library Copyright Information Center produces an excellent website  about copyright terms and the public domain in the United States.  If you'd like specific information about United States serials and magazines,  please see this link from the online book page to learn more about that."
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 985.9,
+            "end": 1013.04,
+            "text": " And as always, we welcome you to join us at the monthly Philadelphia Wikisalon.  Here is the link to our Meetup Philadelphia page.  On our page, there are links to all of our tutorials and demonstrations,  including links to PDF files and videos freely available from Wikimedia Commons.  We list all of our upcoming and past events with instructions about how to join us."
+        },
+        {
+            "number": "12",
+            "title": "WikiSalon",
+            "start": 1013.04,
+            "end": 1027.74,
+            "text": " We meet online on the second Saturday of every month from 12 p.m. to 2 p.m. Eastern Time.  As always, thank you for visiting and watching this video, and we hope to see you soon."
+        }
+    ],
+    "text": " Hello and welcome to the Wiki Salon. In this video we will demonstrate how to add public domain images to Wikimedia Commons and this video has been updated as of September 2025. Wikimedia Commons is a place where people store freely licensed image, audio, and video files. These files are used in Wikipedia articles and other Wikimedia project pages, but anyone in the world can add, edit, and use its public domain resources. Images that can be uploaded to Wikimedia Commons include those that are labeled as Creative Commons 0 or CC0, those that are licensed with other Creative Commons licenses which are accepted by Wikimedia Commons, please see the link provided, materials that are in the public domain and in the United States that means their copyright has expired, or materials that third parties have released as being in the public domain. Images that are not allowed to be uploaded to Wikimedia Commons include those that are labeled as non-commercial or CCNC, non-derivative or CCND, anything labeled copyright unknown or no known copyright, anything labeled as copyright undetermined, anything that is marked as in copyright, or any work that contains media from other copyright holders that is not appropriately CC licensed or not in the public domain. How can you locate Creative Commons licensed images on the internet? Here are some ideas. If you are using the Photosite Flickr, you can limit your search to commercial use and modifications allowed. Then look at the individual photograph and check the usage rights for the license. Ideally, you will see some rights reserve and perhaps a CC by attribution license. If you are using a Google search for images, you can limit your search by clicking on the Tools menu, then Usage Rights and Creative Commons licenses. Again, check each individual image for its license, and no NC or ND licenses are permitted in Commons. You may see that some images are marked with the CC0 public domain mark, and those are acceptable for Commons. If you are looking at a dependent digital repository, such as the Smithsonian Institution, there may be some options to filter your search to only return results with Creative Commons licenses. As in this example from the Smithsonian, where you can filter to only return results with CC0 media. Then you can look for CC0 on the image record itself. There is a Creative Commons search portal at search.creativecommons.org. You can change the filter options to limit your search to those licenses which are supported by Wikimedia Commons, such as the public domain mark, CC0, CC BY, and CC BY SA. How can you identify images that are in the public domain in the United States? First, consult the Cornell Copyright Center's chart for guidance on all materials in the United States public domain. As of January 1st, 2025, anything that has been published in the United States in or before 1930 is in the public domain. The chart will also explain the dates for items that are published in the United States with no copyright notice or with an expired copyright. Any unpublished works by authors who died in or before 1955 are in the public domain. Also, unpublished anonymous works or unknown authors in or before 1905. As a reminder, any works created by an officer or employee of the United States federal government as part of their official duties is in the public domain. This would include all images from NASA, but it does not include any images from state governments or contractors. For more specific information about United States serials and their copyright status, please see the link below from the online books page. Here is an example of an image in the public domain from the digital collections of the New York Public Library. Because this image was originally published in a book in 1898, that means it is in the public domain in the United States because its copyright has expired. You can also use other repositories to find public domain released images. Here is an example from the European digital library, Europeana. In this repository, you can limit your search to write statements with public domain mark or CC0. Some collections also filter with the first question of, can I use this, yes or no? As a reminder, do not upload any materials with write statements of no known copyright, as the copyright for those is undetermined, not uncopyrighted. Once you have selected your images from the internet, you may prepare them for upload to Wikimedia Commons. First, gather the downloaded files into an accessible location, preferably on a local hard drive or attached thumb drive. Each media's file name must be unique and should be descriptive. You can edit the original file name from the source digital repository to make it more descriptive, as in the example below. The file types accepted by Wikimedia Commons are shown below, and the most common ones are TIFF, JPEG, PING, and GIF. The maximum file size for a single file in Commons is 5 GB, but please note that larger files will take longer to upload. For images from the original source repository, download either the full-size TIFF file or the largest JPEG file available. When you upload them, Commons will automatically create resized versions for viewers to download. Next, prepare the file information or metadata for the upload. First, identify and note the exact write statement or license for your downloaded file, and confirm that it is indeed in the public domain in the United States or appropriately CC licensed. Next, gather other relevant metadata for the media in advance, such as the title of the image, the name of its creator, noting the birth and death dates of that person if known, its date of creation, a description of the image, and its location. Next, search Commons for potential categories to assign to your file based upon the subject of the image. Finally, please note that an account on Wikipedia or another Wikimedia project is required for login to be able to upload new media files to Commons. Here is an example of how to upload a Creative Commons licensed image. In this example, we have an image of a tomato frog from the Smithsonian Institution, which is clearly labeled as CC0. We go to commons.wikimedia.org to the link specified, or to the main page, and click the Upload button to launch the Upload Wizard. Next, click on Select Media Files to Share, and enter the location of your file. Then, click Upload. Your file will be uploaded, and if it is successful, you will see the word Uploaded and a green check mark. If there are any problems, you will see a warning. At this point, you can hit Continue. Next, we have to specify the Creative Commons license. First, select This work was created by someone else, and it is free to share. Next, click the reason why the work is free to share. In this case, the creator has released or published this work under a free license. Next, select the correct license, which in this case is Creative Commons CC0 Waiver. Below that, copy and paste the URL of the source webpage, or the sourcing information for the image, directly into the box for number 2, Where did you find this work? Next, in box number 3, add the name of the author or authors, if known, along with any of their birth or death dates, if known. Check the box if the author is unknown, and click Next. Next, describe your image. Next, describe your image. Provide a descriptive title and caption for this image. So, instead of just tomato frog, the title would be something like tomato frog on a plastic dish. Provide a caption which increases the accessibility of the image. Add a more detailed description. Whenever possible, provide as specific a date as is possible for the image. In this case, the date comes directly from the Smithsonian Institution's original website. For the main subject visible in the work, match the content of the image to the entry in wiki data to make images easier to find automatically and link via linked data. In this case, it's the genus Discofus for tomato frog. And finally, add categories in Wikimedia Commons for the image as is applicable. In this case, we've entered Discofus guinetti for the tomato frog. When you're done, click Publish Files. Once your files are published in Commons, you can use them in various places. To use the file in a wiki, copy this whole text and paste it into a page. This would be the entire text with the file name between double brackets. If you're using it in HTML, copy the entire URL beginning with https commons.wikimedia.org followed by wiki and the name of the file. If you have selected images from Flickr, there is a special Flickr to Commons upload pathway that you can use. When you click the main upload button to launch the upload wizard, pick the second choice, Share Images from Flickr. The Flickr image that you've selected must have a CC0 or CC BY SA license. You cannot use anything that says All rights reserved, no derivatives, or no commercial use. Simply copy and paste the entire Flickr URL into the box. Then click Get from Flickr. The service will automatically check if there are duplicates in Commons and will either upload the image or display a warning. If you receive a warning, click Remove and restart. If your upload is successful by showing the green check mark, you can click on Continue. At this point, you can edit the description and accompanying metadata. Edit the metadata for the caption and description as needed. The title, date, and additional EXIF metadata will automatically carry over from Flickr. Add categories or other descriptive information as appropriate and click Publish File. Here is an example of an image that is in the public domain in the United States. This image of a bullfrog from the New York Public Library is in the public domain in the United States because it was originally published in 1898 and its copyright has expired. The upload procedure for this image in the upload wizard is exactly the same except for the release rights. Once you've uploaded your image, select This work was created by someone else and is free to share. Then click Next. Select This work is not protected by copyright law and then choose the reason that the item is out of copyright. In this case, it's out of copyright because it was first published in the United States before 1930. If there were another reason, you would check that reason. As a reminder, original works of the U.S. federal government and NASA are also in the public domain. And there are other specific public domain tags for other reasons why the image is out of copyright. Again, add the URL or sourcing information from the original website and copy and paste that into box number two. For box number three, add the authors if they're known along with any birth or death dates if known and check the box if the author is unknown. The remainder of the upload steps are the same as for other images, metadata assignment, adding categories, etc. So you could see the steps above in this presentation. And it's always recommended to add the citation information to the description to make it absolutely clear that the item is in the list. And it's always recommended to make it absolutely clear that the item is in the public domain. Here is an example of an upload of an image where the United States copyright was not renewed. For this example, we have the Hollywood magazine Silver Screen from December of 1930. We have already confirmed that the copyright for this particular issue has not been renewed and it is in the public domain. Therefore, we can take screen captures or image captures and use them anywhere that we like and upload them to Wikimedia Commons. If you are interested in learning more about how to determine the copyright status of a United States serial or magazine, please see the link below from the online books page. The upload procedure for this image is exactly the same as the other images that we've shown today, except for the release rights. Select this work was created by someone else and is free to share. Next, click this work is not protected by copyright law. Into the specific public domain tag box, copy and paste the following license in between curly brackets. and that is pd-us-not-renewed as shown in the slide. Then you can continue with the rest of your upload steps. For more information, if you'd like more information about how to contribute to Wikimedia Commons, here is a link to a good basic tutorial. Wikimedia Commons also has a help center that is linked below. For more information about copyright in the United States, Cornell University's Library Copyright Information Center produces an excellent website about copyright terms and the public domain in the United States. If you'd like specific information about United States serials and magazines, please see this link from the online book page to learn more about that. And as always, we welcome you to join us at the monthly Philadelphia Wikisalon. Here is the link to our Meetup Philadelphia page. On our page, there are links to all of our tutorials and demonstrations, including links to PDF files and videos freely available from Wikimedia Commons. We list all of our upcoming and past events with instructions about how to join us. We meet online on the second Saturday of every month from 12 p.m. to 2 p.m. Eastern Time. As always, thank you for visiting and watching this video, and we hope to see you soon."
+}

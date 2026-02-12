@@ -1,7 +1,13 @@
-To locate Creative Commons licensed images on the internet, there are a few ways to do so.
+You're looking to find Creative Commons licensed images on the internet. 
 
-Firstly, you can use search engines like Google Images or Bing Images and filter your results by using the "License" option. This will show you which images have been licensed under Creative Commons.
+The video for this topic is WikiSalon #12. To locate these images, start at timestamp 72.88 seconds into the video and watch until 117.12 seconds.
 
-Alternatively, you can also visit the Creative Commons website at search.creativecommons.org and search for images that are licensed in a way that's suitable for your needs. They also have a large collection of public domain resources that you can access.
+In this section of the video, we'll cover some general tips on how to search for Creative Commons licensed images online. We'll discuss a few key platforms where you can find these types of images, including Photosite Flickr and Google Images.
 
-In the video "WikiSalon", episode 12, you can find more information on how to use these resources effectively. At around 27 seconds into the video, they mention world can add, edit, and use its public domain resources, which includes Creative Commons licensed images.
+First, when using Photosite Flickr, you can limit your search to commercial use and modifications allowed. 
+
+When using Google Images, click on the Tools menu, then Usage Rights and Creative Commons licenses. Check each individual image for its license, and make sure it's not labeled as non-commercial (NC) or no derivative uses (ND). If an image has a CC0 public domain mark, that's acceptable.
+
+We'll also cover some specific platforms where you can find these types of images, like commons.wikimedia.org. 
+
+Additionally, if you're looking to upload images from Flickr to Commons, you can use the special Flickr to Commons upload pathway. Just make sure the image has a CC0 or CC BY SA license.
